@@ -1,5 +1,5 @@
 # RPLidar Hector SLAM
-Using Hector SLAM without odometery data on a ROS system with the RPLidar A1.
+Using Hector SLAM without odometry data on a ROS system with the RPLidar A1.
 
 1. Install ROS full desktop version (tested on Kinetic) from: http://wiki.ros.org/kinetic/Installation/Ubuntu
 2. Create a catkin workspace: http://wiki.ros.org/ROS/Tutorials/CreatingPackage
