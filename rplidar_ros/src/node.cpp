@@ -198,8 +198,8 @@ int main(int argc, char * argv[]) {
     nh_private.param<bool>("inverted", inverted, false);
     nh_private.param<bool>("angle_compensate", angle_compensate, true);
 
-    printf("RPLIDAR running on ROS package rplidar_ros\n"
-           "SDK Version: "RPLIDAR_SDK_VERSION"\n");
+    printf("RPLIDAR running on ROS package rplidar_ros \n"
+    "SDK Version: " RPLIDAR_SDK_VERSION "\n");
 
     u_result     op_result;
 
